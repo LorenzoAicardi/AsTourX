@@ -1,101 +1,101 @@
-,languages,keywords
-0,['spanish'],"['history', 'sport', 'art', 'countryside']"
-1,['italian'],"['history', 'wine']"
-2,"['italian', 'spanish']","['countryside', 'tracking']"
-3,['spanish'],[]
-4,['spanish'],['rafting']
-5,['bulgarian'],[]
-6,"['spanish', 'english']",[]
-7,['bulgarian'],"['beer', 'sport', 'literature', 'sport', 'cinema']"
-8,['chinese'],"['literature', 'history']"
-9,['chinese'],['beer']
-10,['spanish'],['sport']
-11,['deutsche'],"['countryside', 'art']"
-12,"['dutch', 'spanish']","['wine', 'sport']"
-13,['english'],"['rafting', 'literature']"
-14,['chinese'],"['literature', 'cinema', 'rafting']"
-15,"['french', 'dutch']",[]
-16,['chinese'],"['museums', 'history', 'literature', 'wine']"
-17,['english'],"['art', 'music', 'archeology']"
-18,['chinese'],['museums']
-19,['deutsche'],"['rafting', 'archeology', 'rafting', 'music', 'food']"
-20,['spanish'],['cinema']
-21,"['bulgarian', 'spanish']","['music', 'cinema', 'tracking', 'wine']"
-22,['chinese'],['beer']
-23,"['french', 'dutch']","['countryside', 'food']"
-24,"['dutch', 'english']","['music', 'cinema', 'food']"
-25,['bulgarian'],"['music', 'history', 'wine']"
-26,['english'],"['history', 'museums', 'countryside', 'archeology', 'literature']"
-27,['spanish'],"['wine', 'cinema']"
-28,"['spanish', 'french']",[]
-29,['deutsche'],['literature']
-30,['english'],['beer']
-31,['dutch'],"['museums', 'museums', 'beer']"
-32,['french'],"['art', 'archeology', 'food']"
-33,['italian'],"['cinema', 'history']"
-34,['chinese'],"['music', 'sport']"
-35,"['chinese', 'bulgarian']","['sport', 'sport']"
-36,['english'],"['wine', 'tracking']"
-37,['bulgarian'],['sport']
-38,['italian'],"['music', 'tracking', 'history']"
-39,['spanish'],"['art', 'rafting']"
-40,['italian'],[]
-41,['spanish'],[]
-42,['french'],"['food', 'archeology', 'tracking', 'museums']"
-43,['deutsche'],"['beer', 'sport', 'archeology', 'wine']"
-44,['english'],"['beer', 'art', 'literature']"
-45,['english'],"['museums', 'rafting', 'music']"
-46,['spanish'],"['sport', 'literature', 'rafting']"
-47,['chinese'],"['music', 'sport']"
-48,"['english', 'deutsche']",['wine']
-49,['english'],"['rafting', 'art']"
-50,['english'],['music']
-51,['italian'],"['beer', 'sport']"
-52,"['chinese', 'spanish']",['history']
-53,['chinese'],"['rafting', 'music']"
-54,"['english', 'italian']","['rafting', 'art', 'art']"
-55,"['french', 'italian']","['museums', 'countryside', 'beer']"
-56,['spanish'],"['food', 'tracking', 'beer']"
-57,['spanish'],"['countryside', 'museums', 'food', 'tracking']"
-58,['deutsche'],[]
-59,['spanish'],"['beer', 'art', 'cinema']"
-60,['deutsche'],['tracking']
-61,['deutsche'],['tracking']
-62,['spanish'],"['rafting', 'food', 'history', 'archeology', 'rafting', 'museums']"
-63,['french'],"['countryside', 'history']"
-64,['bulgarian'],['sport']
-65,"['deutsche', 'spanish']","['beer', 'art']"
-66,['spanish'],"['museums', 'archeology']"
-67,['chinese'],"['sport', 'beer', 'cinema']"
-68,"['bulgarian', 'italian']","['music', 'cinema', 'museums', 'archeology']"
-69,['dutch'],"['archeology', 'food']"
-70,['chinese'],[]
-71,['italian'],"['countryside', 'art', 'countryside', 'wine', 'cinema']"
-72,['chinese'],"['history', 'food']"
-73,"['bulgarian', 'italian']","['archeology', 'music', 'rafting']"
-74,['english'],"['literature', 'archeology', 'tracking']"
-75,['dutch'],"['food', 'sport', 'countryside']"
-76,['chinese'],"['archeology', 'archeology']"
-77,['chinese'],"['cinema', 'museums']"
-78,['bulgarian'],['cinema']
-79,['italian'],['art']
-80,['deutsche'],['music']
-81,['french'],"['countryside', 'tracking', 'food']"
-82,['chinese'],"['sport', 'cinema']"
-83,['dutch'],"['museums', 'history', 'food']"
-84,['deutsche'],"['sport', 'rafting', 'beer']"
-85,['spanish'],"['art', 'museums']"
-86,['deutsche'],['cinema']
-87,['chinese'],['beer']
-88,['chinese'],"['history', 'art', 'history']"
-89,['french'],['rafting']
-90,['dutch'],['tracking']
-91,['french'],[]
-92,['english'],"['sport', 'beer']"
-93,['italian'],"['cinema', 'beer']"
-94,['chinese'],"['sport', 'sport']"
-95,['english'],"['art', 'rafting', 'beer']"
-96,['bulgarian'],['music']
-97,['english'],['rafting']
-98,['italian'],"['beer', 'rafting', 'rafting', 'rafting']"
-99,['deutsche'],['wine']
+;languages;keywords
+0;['spanish'];['history', 'sport', 'art', 'countryside']
+1;['italian'];['history', 'wine']
+2;['italian', 'spanish'];['countryside', 'tracking']
+3;['spanish'];[]
+4;['spanish'];['rafting']
+5;['bulgarian'];[]
+6;['spanish', 'english'];[]
+7;['bulgarian'];['beer', 'sport', 'literature', 'sport', 'cinema']
+8;['chinese'];['literature', 'history']
+9;['chinese'];['beer']
+10;['spanish'];['sport']
+11;['deutsche'];['countryside', 'art']
+12;['dutch', 'spanish'];['wine', 'sport']
+13;['english'];['rafting', 'literature']
+14;['chinese'];['literature', 'cinema', 'rafting']
+15;['french', 'dutch'];[]
+16;['chinese'];['museums', 'history', 'literature', 'wine']
+17;['english'];['art', 'music', 'archeology']
+18;['chinese'];['museums']
+19;['deutsche'];['rafting', 'archeology', 'rafting', 'music', 'food']
+20;['spanish'];['cinema']
+21;['bulgarian', 'spanish'];['music', 'cinema', 'tracking', 'wine']
+22;['chinese'];['beer']
+23;['french', 'dutch'];['countryside', 'food']
+24;['dutch', 'english'];['music', 'cinema', 'food']
+25;['bulgarian'];['music', 'history', 'wine']
+26;['english'];['history', 'museums', 'countryside', 'archeology', 'literature']
+27;['spanish'];['wine', 'cinema']
+28;['spanish', 'french'];[]
+29;['deutsche'];['literature']
+30;['english'];['beer']
+31;['dutch'];['museums', 'museums', 'beer']
+32;['french'];['art', 'archeology', 'food']
+33;['italian'];['cinema', 'history']
+34;['chinese'];['music', 'sport']
+35;['chinese', 'bulgarian'];['sport', 'sport']
+36;['english'];['wine', 'tracking']
+37;['bulgarian'];['sport']
+38;['italian'];['music', 'tracking', 'history']
+39;['spanish'];['art', 'rafting']
+40;['italian'];[]
+41;['spanish'];[]
+42;['french'];['food', 'archeology', 'tracking', 'museums']
+43;['deutsche'];['beer', 'sport', 'archeology', 'wine']
+44;['english'];['beer', 'art', 'literature']
+45;['english'];['museums', 'rafting', 'music']
+46;['spanish'];['sport', 'literature', 'rafting']
+47;['chinese'];['music', 'sport']
+48;['english', 'deutsche'];['wine']
+49;['english'];['rafting', 'art']
+50;['english'];['music']
+51;['italian'];['beer', 'sport']
+52;['chinese', 'spanish'];['history']
+53;['chinese'];['rafting', 'music']
+54;['english', 'italian'];['rafting', 'art', 'art']
+55;['french', 'italian'];['museums', 'countryside', 'beer']
+56;['spanish'];['food', 'tracking', 'beer']
+57;['spanish'];['countryside', 'museums', 'food', 'tracking']
+58;['deutsche'];[]
+59;['spanish'];['beer', 'art', 'cinema']
+60;['deutsche'];['tracking']
+61;['deutsche'];['tracking']
+62;['spanish'];['rafting', 'food', 'history', 'archeology', 'rafting', 'museums']
+63;['french'];['countryside', 'history']
+64;['bulgarian'];['sport']
+65;['deutsche', 'spanish'];['beer', 'art']
+66;['spanish'];['museums', 'archeology']
+67;['chinese'];['sport', 'beer', 'cinema']
+68;['bulgarian', 'italian'];['music', 'cinema', 'museums', 'archeology']
+69;['dutch'];['archeology', 'food']
+70;['chinese'];[]
+71;['italian'];['countryside', 'art', 'countryside', 'wine', 'cinema']
+72;['chinese'];['history', 'food']
+73;['bulgarian', 'italian'];['archeology', 'music', 'rafting']
+74;['english'];['literature', 'archeology', 'tracking']
+75;['dutch'];['food', 'sport', 'countryside']
+76;['chinese'];['archeology', 'archeology']
+77;['chinese'];['cinema', 'museums']
+78;['bulgarian'];['cinema']
+79;['italian'];['art']
+80;['deutsche'];['music']
+81;['french'];['countryside', 'tracking', 'food']
+82;['chinese'];['sport', 'cinema']
+83;['dutch'];['museums', 'history', 'food']
+84;['deutsche'];['sport', 'rafting', 'beer']
+85;['spanish'];['art', 'museums']
+86;['deutsche'];['cinema']
+87;['chinese'];['beer']
+88;['chinese'];['history', 'art', 'history']
+89;['french'];['rafting']
+90;['dutch'];['tracking']
+91;['french'];[]
+92;['english'];['sport', 'beer']
+93;['italian'];['cinema', 'beer']
+94;['chinese'];['sport', 'sport']
+95;['english'];['art', 'rafting', 'beer']
+96;['bulgarian'];['music']
+97;['english'];['rafting']
+98;['italian'];['beer', 'rafting', 'rafting', 'rafting']
+99;['deutsche'];['wine']
