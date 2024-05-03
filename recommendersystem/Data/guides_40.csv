@@ -1,0 +1,41 @@
+;gender;name;birth_date;now_available;languages_spoken;price;education;biography;keywords;current_location;experience
+0;male;Sean Lewis;1982-10-10;True;['english'];25;high-school;Multimedia programmer;['museums'];{'lat': 40.342693584880706, 'lon': 18.164380782481352};8
+1;female;Leah Blackwell;1959-10-31;True;['italian', 'dutch'];36;middle-school;Education officer, museum;['cinema', 'rafting', 'history', 'wine'];{'lat': 40.3367551413547, 'lon': 18.156912099558514};26
+2;female;Tracey Lopez;1963-09-25;True;['chinese', 'french', 'english'];34;phd;Child psychotherapist;['food', 'archeology', 'art'];{'lat': 40.362447049660204, 'lon': 18.14225129410512};31
+3;male;Charles Young;1959-06-19;True;['bulgarian'];46;bachelor;Scientific laboratory technician;['countryside', 'rafting', 'art'];{'lat': 40.36584086550253, 'lon': 18.18300291098849};16
+4;male;David Burgess;1966-09-09;True;['deutsche', 'french'];30;master;Equality and diversity officer;['countryside', 'tracking', 'beer'];{'lat': 40.354724889812935, 'lon': 18.20308322213744};5
+5;male;Connor Davis;1997-06-04;True;['deutsche', 'dutch', 'bulgarian'];27;middle-school;Purchasing manager;[];{'lat': 40.35854623058413, 'lon': 18.183459879904113};3
+6;male;Michael Lee;1966-12-10;True;['english', 'chinese', 'french'];34;middle-school;Journalist, broadcasting;['rafting', 'art', 'sport'];{'lat': 40.35774331848761, 'lon': 18.163273185718722};3
+7;male;Derrick Davidson;1998-03-17;True;['spanish', 'dutch', 'french', 'italian'];33;bachelor;Mental health nurse;['museums', 'art', 'countryside', 'wine'];{'lat': 40.365193043282794, 'lon': 18.18548169596266};2
+8;male;Christopher Smith;1958-10-09;True;['bulgarian', 'english', 'chinese'];31;middle-school;Ergonomist;['literature', 'cinema', 'music'];{'lat': 40.35265552781134, 'lon': 18.151723396225158};42
+9;male;Albert Moore;1973-07-20;True;['chinese', 'bulgarian', 'dutch', 'english'];37;phd;International aid/development worker;['museums'];{'lat': 40.33774657696426, 'lon': 18.18206466411196};11
+10;female;Patricia Ramirez;1978-09-27;True;['bulgarian', 'deutsche'];23;high-school;Call centre manager;['cinema', 'rafting', 'sport', 'museums', 'countryside'];{'lat': 40.36612881009787, 'lon': 18.182042843791987};28
+11;female;Stephanie Hampton;2001-02-13;True;['bulgarian'];23;phd;Radiographer, therapeutic;['cinema', 'beer', 'rafting'];{'lat': 40.367394960036485, 'lon': 18.17553586649066};5
+12;female;Jennifer Andrews;1986-03-10;True;['dutch', 'french', 'italian'];19;bachelor;Aeronautical engineer;['sport', 'music', 'beer'];{'lat': 40.34268462008425, 'lon': 18.18754217524696};5
+13;female;Nicole Campbell;1964-02-29;True;['chinese', 'english'];27;master;Industrial/product designer;['sport', 'archeology', 'beer'];{'lat': 40.35377358678542, 'lon': 18.174728239162743};14
+14;male;Shane Riggs;1980-03-24;True;['chinese', 'french'];40;middle-school;Chartered certified accountant;['museums'];{'lat': 40.353069674191346, 'lon': 18.17755576350439};21
+15;male;Alan Glover;1970-08-05;True;['deutsche', 'chinese'];31;middle-school;Location manager;['music', 'food', 'tracking', 'archeology'];{'lat': 40.35272705494921, 'lon': 18.165705019396267};24
+16;male;Jonathan Smith;1959-08-23;True;['spanish', 'bulgarian', 'french'];32;middle-school;Tax adviser;['countryside', 'music', 'beer'];{'lat': 40.32347428820915, 'lon': 18.164571467568365};7
+17;male;Michael Ramirez;1977-08-02;True;['dutch'];26;master;Communications engineer;['wine', 'sport', 'art'];{'lat': 40.36624424923941, 'lon': 18.174443383782105};16
+18;male;Andrew Bates;1964-05-06;True;['italian', 'dutch'];24;bachelor;Community pharmacist;['food'];{'lat': 40.362871505646005, 'lon': 18.182927778012097};37
+19;female;Stacie Potter;1960-10-20;True;['bulgarian', 'deutsche', 'english'];35;middle-school;Tree surgeon;[];{'lat': 40.339915788807765, 'lon': 18.183797816602628};6
+20;female;Julie Scott;1966-01-25;True;['deutsche', 'french'];43;master;Engineer, site;['rafting', 'museums', 'food'];{'lat': 40.357612936236265, 'lon': 18.169078982902864};35
+21;male;Michael Jackson;1993-11-25;True;['chinese'];26;high-school;Surveyor, insurance;['cinema'];{'lat': 40.342846292499104, 'lon': 18.160897606622324};11
+22;female;Mary Allen;1990-05-01;True;['chinese', 'spanish'];25;high-school;Administrator, education;['history', 'countryside', 'cinema', 'literature', 'music'];{'lat': 40.36846436096489, 'lon': 18.171263566798768};15
+23;female;Monica Leonard;1961-07-26;True;['english', 'italian', 'bulgarian'];20;middle-school;Freight forwarder;['tracking'];{'lat': 40.364408581391295, 'lon': 18.164281246222};22
+24;female;Pamela Turner;1971-12-27;True;['dutch', 'italian', 'bulgarian'];28;high-school;Engineer, materials;[];{'lat': 40.32998981194129, 'lon': 18.175342312953067};18
+25;female;Sandra Owens;1980-10-16;True;['bulgarian'];31;phd;Therapist, occupational;['literature'];{'lat': 40.36710284805045, 'lon': 18.179956956220416};4
+26;male;Julian Lopez;1958-06-11;True;['dutch'];30;phd;Water engineer;['tracking', 'beer', 'museums'];{'lat': 40.37981446263931, 'lon': 18.178854600762087};45
+27;female;Sheena Bryan;2002-05-29;True;['italian'];30;phd;Paediatric nurse;['countryside', 'beer'];{'lat': 40.3457074414046, 'lon': 18.17476546759095};2
+28;female;Jennifer Hardy;2004-04-29;True;['spanish'];25;middle-school;Production designer, theatre/television/film;['food', 'rafting', 'museums', 'music', 'art', 'tracking'];{'lat': 40.35079556972286, 'lon': 18.181927024244384};1
+29;female;Michele Hardin;1984-10-03;True;['bulgarian', 'chinese'];28;master;Conference centre manager;['archeology', 'literature', 'tracking'];{'lat': 40.35465462623879, 'lon': 18.172666005109477};20
+30;female;Denise Moore;1968-04-22;True;['french', 'deutsche', 'english'];27;bachelor;Educational psychologist;['music'];{'lat': 40.361047668976795, 'lon': 18.186334846906};25
+31;male;William Barker;1977-04-02;True;['deutsche', 'french', 'english'];23;master;Engineer, manufacturing;['music', 'countryside', 'food'];{'lat': 40.339171732936364, 'lon': 18.167925902199894};7
+32;female;Kathleen Nelson;1992-02-16;True;['french', 'bulgarian'];28;phd;Mechanical engineer;['archeology', 'music'];{'lat': 40.343414579847, 'lon': 18.185655628052885};10
+33;male;Benjamin Hubbard;1972-07-07;True;['french'];26;middle-school;Designer, exhibition/display;['beer', 'music', 'countryside', 'archeology'];{'lat': 40.34424559835338, 'lon': 18.174907197591427};29
+34;female;Robin Chavez;1969-07-01;True;['chinese', 'spanish', 'bulgarian', 'italian'];28;middle-school;Scientist, physiological;[];{'lat': 40.38198340911851, 'lon': 18.173378831708288};34
+35;male;Brian Morales;1970-08-19;True;['italian', 'french'];30;master;Civil Service administrator;['music'];{'lat': 40.36699713437984, 'lon': 18.165786470444058};14
+36;male;David Giles;1963-01-13;True;['spanish'];26;phd;Soil scientist;[];{'lat': 40.358649720289904, 'lon': 18.16378056126383};11
+37;male;Robert Brown;1974-12-11;True;['dutch'];26;master;Management consultant;[];{'lat': 40.3604075695112, 'lon': 18.161573869060756};4
+38;female;Jasmine Juarez;1975-04-11;True;['italian'];28;master;Computer games developer;[];{'lat': 40.36497247240833, 'lon': 18.173581152828532};31
+39;female;Madison Yang;2003-10-07;True;['spanish', 'dutch'];26;middle-school;Nutritional therapist;['history'];{'lat': 40.35901486939172, 'lon': 18.166553513303274};2
