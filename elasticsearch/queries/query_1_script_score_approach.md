@@ -10,7 +10,7 @@ Here it is necessary to penalize prices that are higher than the average price. 
 $$w(\text{price})=\frac{1}{k}e^{-\frac{\text{price}-\mu}{\sigma}}$$
 where $\mu$ is the average price. By imposing the constraint to have a score of $1$ when the price is zero, we obtain:
 $$w(\text{price})=\left(\frac{1}{k}\right)^\frac{\text{price}}{\mu}$$
-By imposing to have a score of $0.5$ when the price is the average price ($k=0.5$), we obtain:
+By imposing to have a score of $0.5$ when the price is the average price ($k=2$), we obtain:
 $$w(\text{price})=2^{-\frac{\text{price}}{\mu}}$$
 ![Price score](images/q1/price.gif)
 ### Education attribute
