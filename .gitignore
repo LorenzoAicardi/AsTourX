@@ -1,2 +1,3 @@
 elasticsearch/venv
-elasticsearch/.env
+elasticsearch/.*
+elasticsearch/.ipynb_checkpoints
