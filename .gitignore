@@ -1,3 +1,5 @@
 elasticsearch/venv
 elasticsearch/.*
 elasticsearch/.ipynb_checkpoints
+recommendersystem/.ipynb_checkpoints
+.idea
