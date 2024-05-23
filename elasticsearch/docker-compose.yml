@@ -1,29 +1,46 @@
+version: "3.7"
+
 services:
   elasticsearch:
-    image: elasticsearch:8.13.0
-    container_name: es
-    environment:
-      discovery.type: single-node
-      ES_JAVA_OPTS: "-Xms512m -Xmx512m"
+    build:
+      context: docker/elasticsearch/
+    volumes:
+      - ./docker/elasticsearch/config/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml:ro
+      - ./docker/elasticsearch/data:/usr/share/elasticsearch/data:rw
     ports:
       - "9200:9200"
       - "9300:9300"
-    healthcheck:
-      test: ["CMD-SHELL", "curl --silent --fail localhost:9200/_cluster/health || exit 1"]
-      interval: 10s
-      timeout: 10s
-      retries: 3
-    networks:
-      - elastic
+    environment:
+      ES_JAVA_OPTS: "-Xmx2g -Xms2g"
+    logging:
+      options:
+        max-size: 50m
+  logstash:
+    build:
+      context: docker/logstash/
+    volumes:
+      - ./docker/logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml:ro
+      - ./docker/logstash/pipeline:/usr/share/logstash/pipeline:ro
+    ports:
+      - "5001:5001"
+      - "8889:8889"
+      - "8890:8890"
+    environment:
+      LS_JAVA_OPTS: "-Xmx2g -Xms2g"
+    depends_on:
+      - elasticsearch
+    logging:
+      options:
+        max-size: 50m
   kibana:
-    image: kibana:8.13.0
-    container_name: kib
+    build:
+      context: docker/kibana/
+    volumes:
+      - ./docker/kibana/config/:/usr/share/kibana/config:ro
     ports:
       - "5601:5601"
     depends_on:
       - elasticsearch
-    networks:
-      - elastic
-networks:
-  elastic:
-    driver: bridge
+    logging:
+      options:
+        max-size: 50m
