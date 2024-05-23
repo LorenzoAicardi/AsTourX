@@ -1,4 +1,5 @@
 include .env
+.PHONY : init reset_guides_tours reset_guides init_elasticsearch load_guides_tours up down
 
 init:
 	pip install -r requirements.txt
