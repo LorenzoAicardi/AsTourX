@@ -1,0 +1,41 @@
+;guide;languages;city;attractions;keywords;price;date;duration
+0;0;['english'];Lecce;['Church of San Matteo', 'Roman Theatre'];['archeology', 'literature'];38;2024-06-27;12
+1;1;['italian', 'dutch'];Lecce;"[""Piazza Sant'Oronzo"", 'Torre del Parco']";['art', 'history'];27;2024-06-02;11
+2;2;['chinese', 'french', 'english'];Lecce;"[""Colonna di Sant'Oronzo"", 'Celestine Convent']";['art', 'literature'];29;2024-06-09;12
+3;3;['bulgarian'];Lecce;['Museo Faggiano'];['museums'];30;2024-06-26;9
+4;4;['deutsche', 'french'];Lecce;['Palazzo Carafa', 'Church of Santa Chiara'];['history', 'literature'];30;2024-06-03;11
+5;5;['deutsche', 'dutch', 'bulgarian'];Lecce;['Villa Comunale di Lecce', 'Church of San Matteo', 'Museo Faggiano'];['countryside', 'literature', 'museums'];35;2024-06-29;11
+6;6;['english', 'chinese', 'french'];Lecce;['Torre del Parco', 'Palazzo dei Celestini'];['history'];37;2024-06-17;12
+7;7;['spanish', 'dutch', 'french', 'italian'];Lecce;['Museo Faggiano', 'Palazzo dei Celestini'];['history', 'museums'];28;2024-06-29;7
+8;8;['bulgarian', 'english', 'chinese'];Lecce;"[""Piazza Sant'Oronzo"", 'Villa Comunale di Lecce']";['art', 'countryside'];38;2024-06-28;10
+9;9;['chinese', 'bulgarian', 'dutch', 'english'];Lecce;['Celestine Convent'];['literature'];34;2024-07-01;7
+10;10;['bulgarian', 'deutsche'];Lecce;['San Giovanni Battista Church', 'Roman Theatre', 'Torre del Parco'];['archeology', 'history', 'literature'];19;2024-06-10;11
+11;11;['bulgarian'];Lecce;['Palazzo dei Celestini'];['history'];28;2024-06-16;8
+12;12;['dutch', 'french', 'italian'];Lecce;['Celestine Convent', 'San Giovanni Battista Church', 'Church of San Niccolò e Cataldo'];['literature'];27;2024-06-26;8
+13;13;['chinese', 'english'];Lecce;"[""Piazza Sant'Oronzo""]";['art'];36;2024-06-16;6
+14;14;['chinese', 'french'];Lecce;['Museo Faggiano'];['museums'];23;2024-06-14;10
+15;15;['deutsche', 'chinese'];Lecce;['Porta Napoli', 'Roman Theatre'];['archeology', 'art'];31;2024-06-22;5
+16;16;['spanish', 'bulgarian', 'french'];Lecce;['Roman Theatre'];['archeology'];37;2024-06-29;9
+17;17;['dutch'];Lecce;['Museo Faggiano', 'San Giovanni Battista Church'];['literature', 'museums'];17;2024-06-09;9
+18;18;['italian', 'dutch'];Lecce;['Torre del Parco', 'Basilica di Santa Croce'];['history'];19;2024-06-16;6
+19;19;['bulgarian', 'deutsche', 'english'];Lecce;"[""Piazza Sant'Oronzo"", 'Porta Napoli', 'Church of San Matteo']";['art', 'literature'];29;2024-06-26;12
+20;20;['deutsche', 'french'];Lecce;['Palazzo Carafa', 'Palazzo dei Celestini'];['history'];35;2024-06-22;9
+21;21;['chinese'];Lecce;['Church of San Francesco della Scarpa', 'Museo Faggiano', 'San Giovanni Battista Church'];['literature', 'museums'];24;2024-06-14;6
+22;22;['chinese', 'spanish'];Lecce;['Church of San Matteo', 'Villa Comunale di Lecce', 'Castello di Carlo V'];['countryside', 'history', 'literature'];27;2024-06-13;9
+23;23;['english', 'italian', 'bulgarian'];Lecce;['Porta Napoli'];['art'];29;2024-06-05;9
+24;24;['dutch', 'italian', 'bulgarian'];Lecce;['Basilica di Santa Croce', 'Roman Theatre'];['archeology', 'history'];37;2024-06-29;12
+25;25;['bulgarian'];Lecce;['Lecce Cathedral', 'Church of Santa Chiara', 'Palazzo dei Celestini'];['history', 'literature'];23;2024-06-01;9
+26;26;['dutch'];Lecce;"['Church of San Francesco della Scarpa', ""Colonna di Sant'Oronzo""]";['art', 'literature'];27;2024-06-29;8
+27;27;['italian'];Lecce;['Basilica di Santa Croce', 'Porta Napoli'];['art', 'history'];36;2024-06-12;7
+28;28;['spanish'];Lecce;['Church of San Francesco della Scarpa', 'Museo Faggiano'];['literature', 'museums'];28;2024-06-14;5
+29;29;['bulgarian', 'chinese'];Lecce;['Roman Amphitheatre', 'Castello di Carlo V'];['archeology', 'history'];32;2024-06-10;6
+30;30;['french', 'deutsche', 'english'];Lecce;"['Lecce Cathedral', 'Torre del Parco', ""Piazza Sant'Oronzo""]";['art', 'history', 'literature'];26;2024-06-06;5
+31;31;['deutsche', 'french', 'english'];Lecce;['Palazzo dei Celestini'];['history'];17;2024-06-05;8
+32;32;['french', 'bulgarian'];Lecce;['Palazzo dei Celestini'];['history'];27;2024-06-12;6
+33;33;['french'];Lecce;['Lecce Cathedral'];['literature'];33;2024-06-23;10
+34;34;['chinese', 'spanish', 'bulgarian', 'italian'];Lecce;['Church of San Francesco della Scarpa'];['literature'];26;2024-06-16;12
+35;35;['italian', 'french'];Lecce;['Porta Napoli', 'Museo Faggiano', 'San Giovanni Battista Church'];['art', 'literature', 'museums'];36;2024-06-06;12
+36;36;['spanish'];Lecce;['Lecce Cathedral', 'Church of San Matteo', 'Roman Theatre'];['archeology', 'literature'];24;2024-06-25;10
+37;37;['dutch'];Lecce;['Church of Santa Chiara', 'Church of San Francesco della Scarpa'];['literature'];36;2024-06-05;6
+38;38;['italian'];Lecce;"['San Giovanni Battista Church', ""Piazza Sant'Oronzo"", ""Colonna di Sant'Oronzo""]";['art', 'literature'];27;2024-06-09;11
+39;39;['spanish', 'dutch'];Lecce;['Porta Napoli', 'Villa Comunale di Lecce'];['art', 'countryside'];19;2024-06-11;5
