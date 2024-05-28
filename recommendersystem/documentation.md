@@ -15,17 +15,20 @@ The primary objective of this recommender system is to:
 # Project Presentation
 
 The working procedure involves two phases:
-1. [**Data Generation**](Datageneration.ipynb) focuses on creating synthetic datasets to train the models. Due to the current scarcity of real data, we simulate dataframes sampled from statistical distributions. However, these simulation are carefully constrined to reflect real-world scenarios. The data that we consider relevant for our purposes are:
+## [**Data Generation**](Datageneration.ipynb) 
+
+It focuses on creating synthetic datasets to train the models. Due to the current scarcity of real data, we simulate dataframes sampled from statistical distributions. However, these simulation are carefully constrined to reflect real-world scenarios. The data that we consider relevant for our purposes are:
   - Profiles of tourists
   - Profiles of guides
   - Interactions between tourists and guides
   - Interactions between tourists and tours
 
-  In particular, the interactions are presented in the form of explicit ratings given by the tourists, 
+In particular, the interactions are presented in the form of explicit ratings given by the tourists, 
 in a rating scale from 1 to 5.
 
 
-2. **Recommendation Pipeline** includes the steps involved in generating recommendation using the available data. Two distinct approaches have been explored:
+## **Recommendation Pipeline**
+It includes the steps involved in generating recommendation using the available data. Two distinct approaches have been explored:
 
 - Recommendation of guides: Based on past interactions between tourists and guides, this approach recommends guides to tourists. The recommendation algorithm indentifies guides that are similar to those previously favored by tourists.
 
