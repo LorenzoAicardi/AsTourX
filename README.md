@@ -18,7 +18,7 @@ and also to provide further income opportunities to tour guides.
 
 
 ## Project Organization
-After the initial phase of discussions along with data analysis and experiments ([notebook](notebook.ipynb)), 
+After the initial phase of discussions along with data analysis and experiments, 
 we decided to develop two distinct methods to solve the problem of
 matching guides and organized tours to tourists. 
 - [**Elastic search**](/elasticsearch) is based on the use of queries, in which
